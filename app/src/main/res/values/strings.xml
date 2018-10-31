@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Intent_ResponseBundle3Button</string>
+    <string name="textViewFirst">First Activity</string>
+    <string name="editTextFirst" />
+    <string name="editTextHintFirst">saveValue</string>
+    <string name="buttonFirst">First Button</string>
+    <string name="textViewReturn">Return Values</string>
+    <string name="textViewSecond">Second Activity</string>
+    <string name="buttonSecond">Second Button</string>
+    <string name="editTextSecond" />
+</resources>
